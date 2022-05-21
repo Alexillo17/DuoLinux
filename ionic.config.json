@@ -1,0 +1,7 @@
+{
+  "name": "UniPlux",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
